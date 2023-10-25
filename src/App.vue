@@ -47,7 +47,7 @@ export default {
 #app {
   width: 100%;
   height: 100vh;
-  background-color: rgb(22, 17, 29);
+  background-color: rgb(70, 56, 88);
 }
 
 .grid-container {
